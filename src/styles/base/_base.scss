@@ -1,0 +1,7 @@
+@use '../abstracts';
+
+body {
+  font-family: abstracts.$inter, Arial, Helvetica, sans-serif;
+  background-color: abstracts.$night;
+  color: abstracts.$ceil-light;
+}
