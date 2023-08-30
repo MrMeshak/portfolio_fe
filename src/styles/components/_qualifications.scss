@@ -1,0 +1,17 @@
+@use '../abstracts';
+
+.qualifications {
+  padding: 1.5rem 1.5rem 6rem 1.5rem;
+
+  &__title {
+    padding-bottom: 2rem;
+    h2 {
+      font-size: calc(1.2rem + 0.3vw);
+      letter-spacing: 0.2rem;
+      color: abstracts.$ceil-highlight;
+    }
+  }
+
+  &__gallery {
+  }
+}

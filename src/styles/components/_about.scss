@@ -1,0 +1,24 @@
+@use '../abstracts';
+
+.about {
+  padding: 1.5rem 1.5rem 6rem 1.5rem;
+  @include abstracts.media-query('lg') {
+    display: none;
+  }
+
+  &__title {
+    padding-bottom: 2rem;
+
+    h2 {
+      color: abstracts.$ceil-highlight;
+      font-size: calc(1.2rem + 0.3vw);
+      letter-spacing: 0.2rem;
+    }
+  }
+
+  &__description {
+    font-size: calc(0.9rem + 0.3vw);
+    font-weight: 300;
+    color: abstracts.$ceil-dark;
+  }
+}

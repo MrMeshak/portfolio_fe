@@ -1,0 +1,49 @@
+@use '../abstracts';
+
+.header {
+  padding: 4rem 1.5rem 4rem 1.5rem;
+
+  @include abstracts.media-query('lg') {
+    display: none;
+  }
+
+  &__title {
+    h1 {
+      color: abstracts.$ceil-highlight;
+      font-weight: 600;
+      font-size: calc(2.5rem + 0.3vw);
+    }
+    h3 {
+      color: abstracts.$ceil-highlight;
+      font-weight: 300;
+      font-size: calc(0.9rem + 0.3vw);
+      padding-bottom: 1rem;
+    }
+  }
+
+  &__description {
+    font-size: calc(0.9rem + 0.3vw);
+    font-weight: 300;
+    color: abstracts.$ceil-dark;
+    padding-bottom: 0.5rem;
+    padding-right: 5rem;
+  }
+
+  &__links {
+    ul {
+      padding: 0;
+      list-style: none;
+      display: flex;
+    }
+
+    li {
+      padding-right: 1rem;
+    }
+
+    &__logo {
+      height: calc(1.5rem + 0.3vw);
+      width: calc(1.5rem + 0.3vw);
+      color: abstracts.$ceil-highlight;
+    }
+  }
+}

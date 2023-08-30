@@ -1,0 +1,20 @@
+@use '../abstracts';
+
+.qualification-card {
+  padding: 1rem;
+
+  &__title {
+    h3 {
+      color: abstracts.$ceil;
+      font-size: calc(0.9rem + 0.3vw);
+      font-weight: 700;
+    }
+  }
+
+  &__description {
+    p {
+      color: abstracts.$ceil-dark;
+      font-size: calc(0.9rem + 0.3vw);
+    }
+  }
+}

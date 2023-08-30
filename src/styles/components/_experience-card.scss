@@ -1,0 +1,22 @@
+@use '../abstracts';
+
+.experience-card {
+  &__title {
+    padding-bottom: 0.3rem;
+
+    h3 {
+      font-size: calc(1.2rem + 0.3vw);
+      font-weight: 400;
+      color: abstracts.$ceil-highlight;
+    }
+  }
+
+  &__description {
+    p {
+      padding-bottom: 0rem;
+      font-size: calc(0.9rem + 0.3vw);
+      font-weight: 300;
+      color: abstracts.$ceil-dark;
+    }
+  }
+}

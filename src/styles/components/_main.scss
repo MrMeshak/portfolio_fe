@@ -1,0 +1,11 @@
+@use '../abstracts';
+.main {
+  @include abstracts.media-query('md') {
+    padding: 2rem;
+  }
+
+  @include abstracts.media-query('lg') {
+    width: 70%;
+    padding: 4rem;
+  }
+}

@@ -1,0 +1,29 @@
+@use '../abstracts';
+
+.aside {
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 30%;
+  height: 100vh;
+  z-index: 10;
+  background-color: abstracts.$night;
+  overflow: scroll;
+
+  @include abstracts.media-query('lg') {
+    display: block;
+  }
+
+  &__header {
+    padding: 2rem;
+  }
+
+  &__about {
+    padding: 2rem;
+  }
+
+  &__contact {
+    padding: 2rem;
+  }
+}
