@@ -208,11 +208,11 @@ select {
   display: flex;
   gap: 1rem;
   align-items: center;
-  fill: #e5eafe;
   font-size: calc(1.2rem + 0.3vw);
 }
 .project-card__title__links a {
   transition: fill 0.1s ease-in;
+  fill: #e5eafe;
 }
 .project-card__title__links a:hover {
   fill: #73daca;

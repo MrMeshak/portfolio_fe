@@ -26,10 +26,10 @@
       display: flex;
       gap: 1rem;
       align-items: center;
-      fill: abstracts.$ceil-highlight;
       font-size: calc(1.2rem + 0.3vw);
       a {
         transition: fill 0.1s ease-in;
+        fill: abstracts.$ceil-highlight;
       }
 
       a:hover {
