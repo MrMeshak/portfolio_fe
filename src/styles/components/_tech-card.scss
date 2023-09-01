@@ -1,0 +1,24 @@
+@use '../abstracts';
+
+.tech-card {
+  &__gallery {
+    padding: 0.5rem 0rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+
+    &__logo {
+      width: 5rem;
+      height: 5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 0.5rem;
+      background-color: abstracts.$storm;
+
+      img {
+        padding: 1rem;
+      }
+    }
+  }
+}

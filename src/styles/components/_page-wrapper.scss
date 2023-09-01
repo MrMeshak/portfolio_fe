@@ -1,7 +1,0 @@
-@use '../abstracts';
-
-.page-wrapper {
-  display: relative;
-  @include abstracts.media-query('md') {
-  }
-}
