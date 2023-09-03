@@ -8,8 +8,6 @@ I found my love for coding when my brother started studying web development. I w
 
 ## Projects
 
-In this portfolio, you'll find a diverse range of projects that reflect my dedication to mastering the latest technologies, libraries, and frameworks. Here are a few highlights:
-
 - **Project :** [XO](https://xo.up.railway.app/)
 
   - XO is a noughts and crosses website that allows users to play against their friends or against the computer. Implements the minimax algorithm for computer player.
