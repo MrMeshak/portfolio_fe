@@ -301,6 +301,11 @@ select {
     display: block;
   }
 }
+@media only screen and (min-width: 1280px) {
+  .aside {
+    width: 30%;
+  }
+}
 .aside__header {
   padding: 2rem;
 }
