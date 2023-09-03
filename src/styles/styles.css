@@ -267,19 +267,6 @@ select {
   font-size: calc(0.9rem + 0.3vw);
 }
 
-.contact {
-  padding: 1.5rem 1.5rem 5rem 1.5rem;
-  background-color: #24283b;
-}
-.contact__title {
-  padding-bottom: 2rem;
-}
-.contact__title h2 {
-  font-size: calc(1.2rem + 0.3vw);
-  letter-spacing: 0.2rem;
-  color: #e5eafe;
-}
-
 .aside {
   display: none;
   position: fixed;
