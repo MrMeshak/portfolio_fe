@@ -1,6 +1,6 @@
 # Meshak's Portfolio
 
-Hello! Welcome to my portfolio. I'm Meshak, a passionate programmer and web developer with a strong drive to solve real-world problems using code. This portfolio showcases my journey, projects, and skills.
+Hello! Welcome to my portfolio. I'm Meshak, a passionate programmer and web developer with a strong drive to solve real-world problems using code. This portfolio showcases my journey, projects and skills.
 
 ## About Me
 
