@@ -10,11 +10,11 @@ I found my love for coding when my brother started studying web development. I w
 
 ## Projects
 
-- **Project :** [XO](https://xo.up.railway.app/)
+- **Project :** [XO](https://xo-play.vercel.app/)
 
   - XO is a noughts and crosses website that allows users to play against their friends or against the computer. Implements the minimax algorithm for computer player.
   - Typescript - ReactJS - Tailwind - Jest
-  - [View Project](https://xo.up.railway.app/)
+  - [View Project](https://xo-play.vercel.app/)
 
 - **Project:** [Hash](https://hash.up.railway.app/)
 
