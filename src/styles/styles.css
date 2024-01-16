@@ -141,7 +141,7 @@ select {
 }
 
 .experience {
-  padding: 1.5rem 1.5rem 6rem 1.5rem;
+  padding: 1.5rem 1.5rem 4rem 1.5rem;
 }
 @media only screen and (min-width: 768px) {
   .experience {
@@ -157,6 +157,9 @@ select {
   font-size: calc(1.2rem + 0.3vw);
 }
 
+.experience-card {
+  padding-bottom: 2rem;
+}
 .experience-card__title {
   padding-bottom: 0.3rem;
 }
@@ -340,3 +343,5 @@ select {
 .tech-card__gallery__logo img {
   padding: 1rem;
 }
+
+/*# sourceMappingURL=styles.css.map */
