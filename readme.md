@@ -22,10 +22,11 @@ I found my love for coding when my brother started studying web development. I w
   - Typescript - NextJS - Styled Components - Express - Prisma - PostgreSQL
   - [View Project](https://hash.up.railway.app/)
 
-- **Project:** [Stacks](https://stacks.up.railway.app/)
-  - Stacks is Kanban board clone that allows users to create lists and boards that help them to organise things and boost productivity.
-  - Typescript - ReactJS - Styled Components - Express - MongoDB
-  - [View Project](https://stacks.up.railway.app/)
+- **Project:** [Stacks](https://stacks.meshakbain.com/)
+  - Stacks is a kanban board website that helps you to organize your work or play.
+  - [ demo@gmail.com - Password#1 ]
+  - Typescript - ReactJS - React Query - TailwindCSS - NestJS - Drizzle - PostgreSQL - Redis - Jest
+  - [View Project](https://stacks.meshakbain.com/)
 
 You can explore more of my projects on the portfolio website
 
