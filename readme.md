@@ -24,8 +24,9 @@ I found my love for coding when my brother started studying web development. I w
 
 - **Project:** [Stacks](https://stacks.meshakbain.com/)
   - Stacks is a kanban board website that helps you to organize your work or play.
-  - [ demo@gmail.com - Password#1 ]
+  - 
   - Typescript - ReactJS - React Query - TailwindCSS - NestJS - Drizzle - PostgreSQL - Redis - Jest
+  - [ demo@gmail.com - Password#1 ]
   - [View Project](https://stacks.meshakbain.com/)
 
 You can explore more of my projects on the portfolio website
