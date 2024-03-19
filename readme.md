@@ -20,11 +20,11 @@ I found my love for coding when my brother started studying web development. I w
 
   - Hash is a developer feedback platform that enables the community to suggest new features, identify bugs and propose changes. Users can up-vote posts, comment on posts and reply to comments (similar to reddit). The roadmap feature keeps users up to date on which suggestions are currently being planned, in progress or live on the site.
   - Typescript - NextJS - Styled Components - Express - Prisma - PostgreSQL
+  - [ test123@gmail.com - Test123# ]
   - [View Project](https://hash.up.railway.app/)
 
 - **Project:** [Stacks](https://stacks.meshakbain.com/)
   - Stacks is a kanban board website that helps you to organize your work or play.
-  - 
   - Typescript - ReactJS - React Query - TailwindCSS - NestJS - Drizzle - PostgreSQL - Redis - Jest
   - [ demo@gmail.com - Password#1 ]
   - [View Project](https://stacks.meshakbain.com/)
